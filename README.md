@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me https://www.linkedin.com/in/ankitsingh32/
-- @X - @Ankitsingh72890
+- @X - https://x.com/Ankitsingh72890
 - 😄 Pronouns: he/him
 - 
 
