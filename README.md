@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Ankitsinghcool32
+- 👋 Hi, I’m @Ankitsingh
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me https://www.linkedin.com/in/ankitsingh32/
-- @X - https://x.com/Ankitsingh72890
+- 📫 How to reach me https://www.linkedin.com/in/ankitsingh32
+- Twitter - @Ankitsinghcool_
 - 😄 Pronouns: he/him
 - 
 
