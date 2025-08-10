@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me https://www.linkedin.com/in/ankitsingh32
-- Twitter - @Ankitsinghcool_
+- Twitter - https://x.com/Ankitsinghcool_
 - 😄 Pronouns: he/him
 - 
 
